@@ -1,4 +1,8 @@
 # Business-Insights-360
+This Project is a part of Codebasics Bootcamp
+
+Dashboard Link :-https://app.powerbi.com/view?r=eyJrIjoiMmYzZGI4ZDctMjMwNC00NjE3LTk1MDQtM2JhNDJjODhhYThjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73
+
 This project aims to consolidate stakeholders from sales, marketing, finance, and the executive team under one comprehensive report. Key focuses include:
 
 1. Establishing a robust data modelling framework.
